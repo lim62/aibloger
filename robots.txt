@@ -1,0 +1,8 @@
+User-Agent: *
+Allow: /
+Disallow: /api/
+Disallow: /_next/
+Disallow: /tg
+
+Host: https://vossblog.com
+Sitemap: https://vossblog.com/sitemap.xml
